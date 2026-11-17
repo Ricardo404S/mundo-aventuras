@@ -1,0 +1,23 @@
+DESCRIÇÃO DO PRODUTO — MUNDO DAS AVENTURAS (copie e cole na Cakto)
+
+Mundo das Aventuras é um jogo educativo digital feito para crianças de 6 a 9 anos que transforma o aprendizado em uma aventura divertida. Com trilhas separadas por série (1ª, 2ª e 3ª), a criança resolve missões de matemática, lógica, curiosidades e inglês, ganha sequências de acertos e desbloqueia novos níveis enquanto brinca. Os pais têm acesso a um painel exclusivo com estatísticas reais: acertos, tempo de estudo, evolução semanal e desempenho por matéria. O progresso fica salvo automaticamente no navegador, sem anúncios e sem distrações. O acesso é vitalício, com garantia de 7 dias. Ideal para reforçar o que a criança aprende na escola de forma leve, segura e empolgante.
+
+---
+
+DESCRIÇÃO CURTA (até ~160 caracteres, se o campo da Cakto for limitado)
+
+Jogo educativo para crianças de 6 a 9 anos com trilhas por série, progresso salvo e painel dos pais. Aprenda matemática, lógica e inglês brincando. Acesso vitalício.
+
+---
+
+FOTO DO PRODUTO — ONDE CONSEGUIR (sem precisar contratar ninguém)
+
+Opção 1 (rápida, gratuita): use o gerador de imagem da própria Cakto ou do Canva
+1. Abra o Canva (canva.com) → crie um design 1200 x 628 px (formato padrão de thumbnail)
+2. Use um fundo colorido (azul/roxo), coloque o título "Mundo das Aventuras" em fonte arredondada
+3. Adicione emojis grandes: 🚀 🌈 🧠 ⭐ e um texto "Jogo Educativo para Crianças 6-9 anos"
+4. Baixe como PNG e envie na Cakto em Produtos → imagem do produto
+
+Opção 2 (se quiser, posso gerar a imagem para você com IA — me avise e eu crio o arquivo no projeto)
+
+DICA: evite fotos de crianças reais sem autorização dos pais. Use ilustrações, emojis ou uma captura de tela do próprio jogo (a tela inicial com o foguete 🚀 fica ótima).
